@@ -1,7 +1,7 @@
 # Install node packages
 
-`npm install`
+```npm install```
 
 # Start local server
 
-`npm start'
+```npm start```
