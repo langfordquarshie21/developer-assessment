@@ -1,3 +1,5 @@
+## To run the project:
+
 ### 1. Install node packages
 
 ```npm install```
